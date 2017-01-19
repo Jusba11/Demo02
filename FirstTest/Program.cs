@@ -10,7 +10,7 @@ namespace FirstTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Terve GitHub!");
+            Console.WriteLine("Terve GitHubbi!");
         }
     }
 }
